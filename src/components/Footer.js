@@ -48,7 +48,7 @@ const Footer = () => {
           {/* Brand Identity */}
           <div className="lg:col-span-5">
             <div className="flex items-center gap-3 mb-8">
-              <span className="text-xl font-bold text-white tracking-[0.2em] uppercase">11TH HAVEN HOMES</span>
+              <span className="text-xl font-bold text-white tracking-[0.2em] uppercase">MARKPRIZE REALTY</span>
             </div>
             <p className="max-w-sm text-lg leading-relaxed mb-10 text-neutral-500">
               Curating Nigeria's most prestigious addresses since 2008. We provide private wealth advisory for the discerning investor.
@@ -94,7 +94,7 @@ const Footer = () => {
         {/* Legal Footer*/}
         <div className="mt-24 pt-12 border-t border-neutral-900 flex flex-col md:flex-row justify-between items-center gap-8">
           <p className="text-[10px] uppercase tracking-widest text-neutral-600">
-            © {new Date().getFullYear()} 11THHAVENHOMES. All rights reserved.
+            © {new Date().getFullYear()} MARKPRIZE REALTY. All rights reserved.
           </p>
           <div className="flex gap-10 text-[10px] font-bold uppercase tracking-[0.2em]">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>

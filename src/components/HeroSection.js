@@ -71,7 +71,7 @@ const HeroSection = () => {
 
         {/* Bottom Bar: Geographic Coordinates */}
         <div className="flex justify-between items-center border-t border-white/10 pt-8">
-            <span className="text-[9px] font-black uppercase tracking-[0.5em] text-white/30">©2026 11TH HAVEN HOMES</span>
+            <span className="text-[9px] font-black uppercase tracking-[0.5em] text-white/30">©2026 MARKPRIZE REALTY</span>
             <span className="text-[9px] font-black uppercase tracking-[0.5em] text-white/30">6.4654° N, 3.4064° E</span>
         </div>
       </div>

@@ -36,7 +36,7 @@ const Header = () => {
           
           {/* Logo - Minimal Serif */}
           <Link to="/" className="z-[120]">
-            <h1 className="text-xl font-sans not-italic tracking-tighter text-white">11TH HAVEN HOMES.</h1>
+            <h1 className="text-xl font-sans not-italic tracking-tighter text-white">MARKPRIZE REALTY.</h1>
           </Link>
 
           {/* Desktop Nav - Ultrasmall tracking */}
@@ -97,7 +97,7 @@ const Header = () => {
             </div>
             <div>
               <p className="text-[10px] font-black uppercase tracking-[0.4em] text-neutral-600 mb-4">Inquiry</p>
-              <p className="text-xl text-neutral-400 font-light">concierge@11THHAVENHOMES.com</p>
+              <p className="text-xl text-neutral-400 font-light">concierge@MARKPRIZEREALTY.com</p>
             </div>
             <Link to="/contact" className="group flex items-center gap-4 text-white pt-8">
                <span className="text-[10px] font-black uppercase tracking-[0.4em]">Start Consultation</span>
@@ -110,7 +110,7 @@ const Header = () => {
         
         {/* Corner Detail */}
         <div className="absolute bottom-12 left-8 md:left-24 text-[9px] font-black uppercase tracking-[0.5em] text-neutral-800">
-          11TH HAVEN HOMES 
+          MARKPRIZE REALTY
         </div>
       </div>
     </>
