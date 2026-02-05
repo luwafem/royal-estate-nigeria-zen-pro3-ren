@@ -6,7 +6,7 @@ import SEO from './SEO';
 
 const Layout = ({ 
   children, 
-  title = "11TH HAVEN HOMES", 
+  title = "MARKPRIZE REALTY", 
   description = "Curated luxury residences and commercial investments in Nigeria.", 
   image = "/og-image.jpg", 
   url = "https://ManteeRealty.com" 
